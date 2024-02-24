@@ -1,0 +1,30 @@
+version: '3'
+services:
+  demo:
+    build:
+      context: demo
+      dockerfile: Dockerfile
+    expose:
+      - "8080"
+    ports:
+      - "8080:8080"
+  landing:
+    build:
+      context: landing
+      dockerfile: Dockerfile
+    expose:
+      - "8081"
+    ports:
+      - "8081:3000"
+  nginx:
+    image: nginx:latest
+    ports:
+      - 80:80
+    volumes:
+      - ./nginx/nginx.conf:/etc/nginx/nginx.conf
+    depends_on:
+      - landing
+      - demo
+    links:
+      - landing
+      - demo

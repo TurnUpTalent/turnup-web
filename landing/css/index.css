@@ -1,0 +1,21 @@
+.font-extrabold {
+  font-weight: 10000000000; /* Or any other desired weight */
+  color: rgb(79 70 229);
+}
+
+.custom-button {
+  display: block;
+  margin: 5px auto; /* Centers the button and adds some margin above and below */
+  padding: 15px 28px; /* Padding inside the button */
+  background-color: rgb(99 90 249); /* Background color */
+  color: white; /* Text color */
+  border: none; /* Removes the border */
+  border-radius: 7px; /* Slightly rounded corners */
+  font-size: 16px; /* Sets the font size */
+  cursor: pointer; /* Changes cursor to pointer on hover */
+  text-align: center; /* Ensures text is centered */
+}
+
+.custom-button:hover {
+  background-color: #0056b3; /* Darker shade for hover effect */
+}
