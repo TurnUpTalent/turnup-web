@@ -1,21 +1,15 @@
 version: '3'
 services:
   demo:
+    image: 900349303695.dkr.ecr.us-east-2.amazonaws.com/demo:latest
     build:
       context: demo
       dockerfile: Dockerfile
-    expose:
-      - "8080"
-    ports:
-      - "8080:8080"
   landing:
+    image: 900349303695.dkr.ecr.us-east-2.amazonaws.com/landing:latest
     build:
       context: landing
       dockerfile: Dockerfile
-    expose:
-      - "8081"
-    ports:
-      - "8081:3000"
   nginx:
     image: nginx:latest
     ports:
