@@ -65,11 +65,24 @@ const Navbar = ( props ) => {
 
                     <Disclosure.Panel className="flex flex-wrap w-full my-5 lg:hidden">
                       <>
-                        {navigation.map((item, index) => (
-                            <Link key={item[0]} href={"/" + item[1]} className="w-full px-4 py-2 -ml-4 text-gray-500 rounded-md dark:text-gray-300 hover:text-indigo-500 focus:text-indigo-500 focus:bg-indigo-100 dark:focus:bg-gray-800 focus:outline-none">
+                      {navigation.map((item, index) => {
+                        // Check if the navigation item is "product" or "features"
+                        if (item[1] === 'product' || item[1] === 'features') {
+                          // Directly use an anchor tag for in-page navigation without Link
+                          return (
+                            <a key={index} href={`/#${item[1]}`} className="w-full px-4 py-2 -ml-4 text-gray-500 rounded-md dark:text-gray-300 hover:text-indigo-500 focus:text-indigo-500 focus:bg-indigo-100 dark:focus:bg-gray-800 focus:outline-none">
+                              {item[0]}
+                            </a>
+                          );
+                        } else {
+                          // Use the Next.js Link component for other links, without wrapping an <a> tag
+                          return (
+                            <Link key={index} href={`/${item[1]}`} className="w-full px-4 py-2 -ml-4 text-gray-500 rounded-md dark:text-gray-300 hover:text-indigo-500 focus:text-indigo-500 focus:bg-indigo-100 dark:focus:bg-gray-800 focus:outline-none">
                               {item[0]}
                             </Link>
-                        ))}
+                          );
+                        }
+                      })}
                         <Link href="/contact" className="w-full px-6 py-2 mt-3 text-center text-white bg-indigo-600 rounded-md lg:ml-5">
                           Schedule Demo
                         </Link>

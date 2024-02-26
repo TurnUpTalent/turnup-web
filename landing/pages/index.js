@@ -48,7 +48,7 @@ const Home = () => {
 
             <div className="flex-shrink-0 w-full text-center lg:w-auto">
                 <a
-                    href="http://localhost:3000/contact"
+                    href="https://turnuptalent.ai/contact"
                     target="_blank"
                     rel="noopener"
                     className="inline-block py-2 mx-auto text-lg font-medium text-center bg-indigo-600 text-white rounded-md px-5 lg:px-8 lg:py-4 ">
