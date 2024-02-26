@@ -6,55 +6,53 @@ import {
   AdjustmentsHorizontalIcon,
   SunIcon,
 } from "@heroicons/react/24/solid";
-
 import benefitOneImg from "../public/img/benefit-one.png";
 import benefitTwoImg from "../public/img/benefit-two.png";
+import prototypeOneImg from "../public/img/prototype-one.png";
+import prototypeTwoImg from "../public/img/prototype-two.png";
 
 const benefitOne = {
-  title: "Highlight your benefits",
-  desc: "You can use this space to highlight your first benefit or a feature of your product. It can also contain an image or Illustration like in the example along with some bullet points.",
-  image: benefitOneImg,
+  title: "Simple but Powerful",
+  desc: "TurnUp is straightforwad interface gets you the actionable data you need where you need it.",
+  image: prototypeTwoImg,
   bullets: [
     {
-      title: "Understand your customers",
-      desc: "Then explain the first point breifly in one or two lines.",
+      title: "Keep employees happy",
+      desc: "By indenifying flight risks and anticipating their needs you can continually delight your workforce.",
       icon: <FaceSmileIcon />,
     },
     {
-      title: "Improve acquisition",
-      desc: "Here you can add the next benefit point.",
+      title: "Track Impact",
+      desc: "Understand what is working and what isn't so you can stay accountable to your KPIs",
       icon: <ChartBarSquareIcon />,
     },
     {
-      title: "Drive customer retention",
-      desc: "This will be your last bullet point in this section.",
+      title: "Deepdive on what matters",
+      desc: "Drill into individual employees and get visibility on their unique drivers.",
       icon: <CursorArrowRaysIcon />,
     },
   ],
 };
-
 const benefitTwo = {
-  title: "Offer more benefits here",
-  desc: "You can use this same layout with a flip image to highlight your rest of the benefits of your product. It can also contain an image or Illustration as above section along with some bullet points.",
-  image: benefitTwoImg,
+  title: "Drive the Bottom Line",
+  desc: "Don't let good employees slip through your fingers. With TurnUp you can compare your cost of churn with performance to understand business impact.",
+  image: prototypeOneImg,
   bullets: [
     {
-      title: "Mobile Responsive Template",
-      desc: "Nextly is designed as a mobile first responsive template.",
+      title: "Relevant Alerts",
+      desc: "Setup powerful automated alerts and reports so that you are never surprised by turnover again.",
       icon: <DevicePhoneMobileIcon />,
     },
     {
-      title: "Powered by Next.js & TailwindCSS",
-      desc: "This template is powered by latest technologies and tools.",
+      title: "Powerful Filters",
+      desc: "Filter and group employees so you can see specific trends and rollup numbers for the categories that matter to you.",
       icon: <AdjustmentsHorizontalIcon />,
     },
     {
-      title: "Dark & Light Mode",
-      desc: "Nextly comes with a zero-config light & dark mode. ",
+      title: "Actionable Reccomendations",
+      desc: "Specific reccomendations on what levers you can pull to retain the employees that matter most to you.",
       icon: <SunIcon />,
     },
   ],
 };
-
-
 export {benefitOne, benefitTwo};
