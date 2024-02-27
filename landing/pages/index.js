@@ -24,10 +24,10 @@ const Home = () => {
     return (
         <>
             <Head>
-                <title>Nextly - Free Nextjs & TailwindCSS Landing Page Template</title>
+                <title>Turnup</title>
                 <meta
                     name="description"
-                    content="Nextly is a free landing page template built with next.js & Tailwind CSS"
+                    content="TurnUp is a talent management platform that helps companies to retain their best employees and save thousands per year for each employee they have by preventing costly turnovers."
                 />
                 <link rel="icon" href="/favicon.ico" />
             </Head>
