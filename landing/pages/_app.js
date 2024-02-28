@@ -35,10 +35,11 @@ function MyApp({ Component, pageProps }) {
         `}
             </Script>
 
+            {/*TODO: Remove this.*/}
 
             <Script
                 strategy="lazyOnload"
-                src={`https://www.googletagmanager.com/gtag/js?id=${process.env.NEXT_PUBLIC_GOOGLE_ANALYTICS}`}
+                src={`https://www.googletagmanager.com/gtag/js?id=G-XZNYF89JR2`}
             />
 
             <Script strategy="lazyOnload">
@@ -46,7 +47,7 @@ function MyApp({ Component, pageProps }) {
           window.dataLayer = window.dataLayer || [];
           function gtag(){dataLayer.push(arguments);}
           gtag('js', new Date());
-          gtag('config', '${process.env.NEXT_PUBLIC_GOOGLE_ANALYTICS}', {
+          gtag('config', 'G-XZNYF89JR2', {
             page_path: window.location.pathname,
           });
         `}
