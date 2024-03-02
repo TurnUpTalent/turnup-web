@@ -77,7 +77,7 @@ const Home = () => {
             <Faq />
             <Cta />
             <Footer />
-            <PopupWidget />
+            {/*<PopupWidget />*/}
             {/* Conditional rendering of Modal */}
             {isModalVisible && (
                 <Modal onClose={closeModal}>
