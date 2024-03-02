@@ -7,7 +7,7 @@ const Privacy = () => {
         <>
             <Head>
                 <title>Privacy</title>
-                <meta name="description" content="Learn more about Nextly" />
+                <meta name="description" content="Learn more about our privacy policy" />
             </Head>
             <Navbar />
             <main className="container mx-auto px-4">

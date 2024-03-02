@@ -16,7 +16,7 @@ const Contact = () => {
         <>
             <Head>
                 <title>Contact Page</title>
-                <meta name="description" content="Learn more about Nextly" />
+                <meta name="description" content="Contact US" />
             </Head>
             <Navbar />
             <div className="container mx-auto px-4 flex flex-wrap items-start mt-8">
