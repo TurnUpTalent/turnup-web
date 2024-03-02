@@ -29,7 +29,7 @@ const Home = () => {
                     name="description"
                     content="TurnUp is a talent management platform that helps companies to retain their best employees and save thousands per year for each employee they have by preventing costly turnovers."
                 />
-                <link rel="icon" href="/favicon.ico" />
+                <link rel="icon" href="/favicon.png" />
             </Head>
 
             <Navbar onOpen={showModal}/>
