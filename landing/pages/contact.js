@@ -21,7 +21,7 @@ const Contact = () => {
             <Navbar />
             <div className="container mx-auto px-4 flex flex-wrap items-start mt-8">
                 <main className="w-full lg:w-1/2">
-                    <h1 className="text-4xl font-bold mb-10 mt-6">Contact Us</h1>
+                    <h1 className="text-4xl font-bold mb-10 mt-6">Schedule a Call With Us!</h1>
                     {/* <p>This is a page to contact people...</p> */}
                     <MailchimpSubscribe
                         url={postUrl}
@@ -33,6 +33,9 @@ const Contact = () => {
                             />
                         )}
                     />
+                    <p className="text-1xl mb-10 mt-16">
+                    Or email us at <span className="text-indigo-600">nick@turnuptalent.ai</span>
+                    </p>
                 </main>
                 <div className="w-full lg:w-1/2 flex justify-center items-center">
                     {/* Image component from Next.js */}
