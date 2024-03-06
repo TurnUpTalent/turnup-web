@@ -6,7 +6,7 @@
     "job": "Chief Marketing Officer",
     "department": "Marketing",
     "retention_score": 58,
-    "register_date": "2 Years",
+    "register_date": "2 months",
     "xaxis": {
       "categories": [2021,2022,2023,2024,2025,2026,2027,2028,2029]
     },
@@ -23,7 +23,7 @@
     "chartDataPos": [400, 370, 330, 390, 320],
     "chartOptionsPos": ["Satisfaction", "Time off", "Co-Workers", "Insurance", "Travel"],
     "chartDataNeg": [400, 370, 330, 390, 320],
-    "chartOptionsNeg": ["Over Time", "Bonus", "Job Market", "Growth", "Safety"]
+    "chartOptionsNeg": ["Over Time", "Bonus", "Remote Market", "Growth", "Safety"]
   },
   {
     "id": 2,
@@ -32,7 +32,7 @@
     "name": "Ahmad Rosser",
     "department": "People Operations",
     "retention_score": 37,
-    "register_date": "3 Years",
+    "register_date": "3 months",
     "email": "ahmad.rosser@company.com",
     "xaxis": {
       "categories": [2021,2022,2023,2024,2025,2026,2027,2028,2029]
@@ -49,7 +49,7 @@
     "chartDataPos": [40, 32, 24, 12, 5],
     "chartOptionsPos": ["Flex Time", "PTO", "Training", "Age", "Benefits"],
     "chartDataNeg": [36, 24, 21, 15, 9],
-    "chartOptionsNeg": ["Salary", "Attendace", "Job Market", "Promotion", "Engagement"]
+    "chartOptionsNeg": ["Salary", "Attendace", "Remote Market", "Promotion", "Engagement"]
   },
   {
     "id": 3,
@@ -58,7 +58,7 @@
     "name": "Zain Calzoni",
     "department": "Sales",
     "retention_score": 39,
-    "register_date": "1 Year",
+    "register_date": "1 months",
     "email": "zain.calzoni@company.com",
     "xaxis": {
       "categories": [2021,2022,2023,2024,2025,2026,2027,2028,2029]
@@ -75,7 +75,7 @@
     "chartDataPos": [400, 370, 330, 390, 320],
     "chartOptionsPos": ["Satisfaction", "Time off", "Co-Workers", "Insurance", "Travel"],
     "chartDataNeg": [400, 370, 330, 390, 320],
-    "chartOptionsNeg": ["Over Time", "Bonus", "Job Market", "Growth", "Safety"]
+    "chartOptionsNeg": ["Over Time", "Bonus", "Remote Market", "Growth", "Safety"]
   },
   {
     "id": 4,
@@ -84,7 +84,7 @@
     "name": "Leo Stanton",
     "department": "IT",
     "retention_score": 54,
-    "register_date": "2 Years",
+    "register_date": "2 months",
     "email": "leo.stanton@company.com",
     "xaxis": {
       "categories": [2021,2022,2023,2024,2025,2026,2027,2028,2029]
@@ -101,7 +101,7 @@
     "chartDataPos": [400, 370, 330, 390, 320],
     "chartOptionsPos": ["Satisfaction", "Time off", "Co-Workers", "Insurance", "Travel"],
     "chartDataNeg": [400, 370, 330, 390, 320],
-    "chartOptionsNeg": ["Over Time", "Bonus", "Job Market", "Growth", "Safety"]
+    "chartOptionsNeg": ["Over Time", "Bonus", "Remote Market", "Growth", "Safety"]
   },
   {
     "id": 5,
@@ -110,7 +110,7 @@
     "name": "Kaiya Vetrovs",
     "department": "Finance",
     "retention_score": 77,
-    "register_date": "3 Years",
+    "register_date": "3 months",
     "email": "kaiya.vetrovs@company.com",
     "xaxis": {
       "categories": [2021,2022,2023,2024,2025,2026,2027,2028,2029]
@@ -127,7 +127,7 @@
     "chartDataPos": [400, 370, 330, 390, 320],
     "chartOptionsPos": ["Satisfaction", "Time off", "Co-Workers", "Insurance", "Travel"],
     "chartDataNeg": [400, 370, 330, 390, 320],
-    "chartOptionsNeg": ["Over Time", "Bonus", "Job Market", "Growth", "Safety"]
+    "chartOptionsNeg": ["Over Time", "Bonus", "Remote Market", "Growth", "Safety"]
   },
   {
     "id": 6,
@@ -136,7 +136,7 @@
     "name": "Ryan Westervelt",
     "department": "Accounts",
     "retention_score": 39,
-    "register_date": "1 Year",
+    "register_date": "1 months",
     "email": "ryan.westervelt@company.com",
     "xaxis": {
       "categories": [2021,2022,2023,2024,2025,2026,2027,2028,2029]
@@ -153,7 +153,7 @@
     "chartDataPos": [400, 370, 330, 390, 320],
     "chartOptionsPos": ["Satisfaction", "Time off", "Co-Workers", "Insurance", "Travel"],
     "chartDataNeg": [400, 370, 330, 390, 320],
-    "chartOptionsNeg": ["Over Time", "Bonus", "Job Market", "Growth", "Safety"]
+    "chartOptionsNeg": ["Over Time", "Bonus", "Remote Market", "Growth", "Safety"]
   },
   {
     "id": 7,
@@ -162,7 +162,7 @@
     "name": "Corey Stanton",
     "department": "Accountant",
     "retention_score": 74,
-    "register_date": "3 Years",
+    "register_date": "3 months",
     "email": "corey.stanton@company.com",
     "xaxis": {
       "categories": [2021,2022,2023,2024,2025,2026,2027,2028,2029]
@@ -179,7 +179,7 @@
     "chartDataPos": [400, 370, 330, 390, 320],
     "chartOptionsPos": ["Satisfaction", "Time off", "Co-Workers", "Insurance", "Travel"],
     "chartDataNeg": [400, 370, 330, 390, 320],
-    "chartOptionsNeg": ["Over Time", "Bonus", "Job Market", "Growth", "Safety"]
+    "chartOptionsNeg": ["Over Time", "Bonus", "Remote Market", "Growth", "Safety"]
   },
   {
     "id": 8,
@@ -188,7 +188,7 @@
     "name": "Mara Jones",
     "department": "Accountant",
     "retention_score": 85,
-    "register_date": "4 Years",
+    "register_date": "4 months",
     "email": "mara.jones@company.com",
     "xaxis": {
       "categories": [2021,2022,2023,2024,2025,2026,2027,2028,2029]
@@ -205,7 +205,7 @@
     "chartDataPos": [400, 370, 330, 390, 320],
     "chartOptionsPos": ["Satisfaction", "Time off", "Co-Workers", "Insurance", "Travel"],
     "chartDataNeg": [400, 370, 330, 390, 320],
-    "chartOptionsNeg": ["Over Time", "Bonus", "Job Market", "Growth", "Safety"]
+    "chartOptionsNeg": ["Over Time", "Bonus", "Remote Market", "Growth", "Safety"]
   },
   {
     "id": 9,
@@ -214,7 +214,7 @@
     "name": "Jamal Petersen",
     "department": "Accountant",
     "retention_score": 74,
-    "register_date": "3 Years",
+    "register_date": "3 months",
     "email": "jamal.petersen@company.com",
     "xaxis": {
       "categories": [2021,2022,2023,2024,2025,2026,2027,2028,2029]
@@ -231,7 +231,7 @@
     "chartDataPos": [400, 370, 330, 390, 320],
     "chartOptionsPos": ["Satisfaction", "Time off", "Co-Workers", "Insurance", "Travel"],
     "chartDataNeg": [400, 370, 330, 390, 320],
-    "chartOptionsNeg": ["Over Time", "Bonus", "Job Market", "Growth", "Safety"]
+    "chartOptionsNeg": ["Over Time", "Bonus", "Remote Market", "Growth", "Safety"]
   },
   {
     "id": 10,
@@ -240,7 +240,7 @@
     "name": "Khloe Allen",
     "department": "Accountant",
     "retention_score": 19,
-    "register_date": "6 Months",
+    "register_date": "6 months",
     "email": "khloe.allen@company.com",
     "xaxis": {
       "categories": [2021,2022,2023,2024,2025,2026,2027,2028,2029]
@@ -257,7 +257,7 @@
     "chartDataPos": [400, 370, 330, 390, 320],
     "chartOptionsPos": ["Satisfaction", "Time off", "Co-Workers", "Insurance", "Travel"],
     "chartDataNeg": [400, 370, 330, 390, 320],
-    "chartOptionsNeg": ["Over Time", "Bonus", "Job Market", "Growth", "Safety"]
+    "chartOptionsNeg": ["Over Time", "Bonus", "Remote Market", "Growth", "Safety"]
   },
   {
     "id": 11,
@@ -266,7 +266,7 @@
     "name": "Teagan Shields",
     "department": "Accountant",
     "retention_score": 9,
-    "register_date": "3 Months",
+    "register_date": "3 months",
     "email": "teagan.shields@company.com",
     "xaxis": {
       "categories": [2021,2022,2023,2024,2025,2026,2027,2028,2029]
@@ -283,7 +283,7 @@
     "chartDataPos": [400, 370, 330, 390, 320],
     "chartOptionsPos": ["Satisfaction", "Time off", "Co-Workers", "Insurance", "Travel"],
     "chartDataNeg": [400, 370, 330, 390, 320],
-    "chartOptionsNeg": ["Over Time", "Bonus", "Job Market", "Growth", "Safety"]
+    "chartOptionsNeg": ["Over Time", "Bonus", "Remote Market", "Growth", "Safety"]
   },
   {
     "id": 12 ,
@@ -292,7 +292,7 @@
     "name": "Solomon Hunter",
     "department": "Accountant",
     "retention_score": 59,
-    "register_date": "2 Years",
+    "register_date": "2 months",
     "email": "solomon.hunter@company.com",
     "xaxis": {
       "categories": [2021,2022,2023,2024,2025,2026,2027,2028,2029]
@@ -309,7 +309,7 @@
     "chartDataPos": [400, 370, 330, 390, 320],
     "chartOptionsPos": ["Satisfaction", "Time off", "Co-Workers", "Insurance", "Travel"],
     "chartDataNeg": [400, 370, 330, 390, 320],
-    "chartOptionsNeg": ["Over Time", "Bonus", "Job Market", "Growth", "Safety"]
+    "chartOptionsNeg": ["Over Time", "Bonus", "Remote Market", "Growth", "Safety"]
   },
   {
     "id": 13,
@@ -318,7 +318,7 @@
     "name": "Jayleen Davidson",
     "department": "Accountant",
     "retention_score": 42,
-    "register_date": "1 Year",
+    "register_date": "1 months",
     "email": "jayleen.davidson@company.com",
     "xaxis": {
       "categories": [2021,2022,2023,2024,2025,2026,2027,2028,2029]
@@ -335,7 +335,7 @@
     "chartDataPos": [400, 370, 330, 390, 320],
     "chartOptionsPos": ["Satisfaction", "Time off", "Co-Workers", "Insurance", "Travel"],
     "chartDataNeg": [400, 370, 330, 390, 320],
-    "chartOptionsNeg": ["Over Time", "Bonus", "Job Market", "Growth", "Safety"]
+    "chartOptionsNeg": ["Over Time", "Bonus", "Remote Market", "Growth", "Safety"]
   },
   {
     "id": 14,
@@ -343,7 +343,7 @@
     "name": "Adan Weber",
     "department": "Accountant",
     "retention_score": 50,
-    "register_date": "16 Months",
+    "register_date": "16 months",
     "email": "adan.weber@company.com",
     "xaxis": {
       "categories": [2021,2022,2023,2024,2025,2026,2027,2028,2029]
@@ -360,7 +360,7 @@
     "chartDataPos": [400, 370, 330, 390, 320],
     "chartOptionsPos": ["Satisfaction", "Time off", "Co-Workers", "Insurance", "Travel"],
     "chartDataNeg": [400, 370, 330, 390, 320],
-    "chartOptionsNeg": ["Over Time", "Bonus", "Job Market", "Growth", "Safety"]
+    "chartOptionsNeg": ["Over Time", "Bonus", "Remote Market", "Growth", "Safety"]
   },
   {
     "id": 15,
@@ -369,7 +369,7 @@
     "name": "Bowen Sharp",
     "department": "Accountant",
     "retention_score": 70,
-    "register_date": "3 Years",
+    "register_date": "3 months",
     "email": "bowen.sharp@company.com",
     "xaxis": {
       "categories": [2021,2022,2023,2024,2025,2026,2027,2028,2029]
@@ -386,7 +386,7 @@
     "chartDataPos": [400, 370, 330, 390, 320],
     "chartOptionsPos": ["Satisfaction", "Time off", "Co-Workers", "Insurance", "Travel"],
     "chartDataNeg": [400, 370, 330, 390, 320],
-    "chartOptionsNeg": ["Over Time", "Bonus", "Job Market", "Growth", "Safety"]
+    "chartOptionsNeg": ["Over Time", "Bonus", "Remote Market", "Growth", "Safety"]
   },
   {
     "id": 16,
@@ -395,7 +395,7 @@
     "name": "Ronin Harris",
     "department": "Accountant",
     "retention_score": 37,
-    "register_date": "8 Months",
+    "register_date": "8 months",
     "email": "ronin.harris@company.com",
     "xaxis": {
       "categories": [2021,2022,2023,2024,2025,2026,2027,2028,2029]
@@ -412,7 +412,7 @@
     "chartDataPos": [400, 370, 330, 390, 320],
     "chartOptionsPos": ["Satisfaction", "Time off", "Co-Workers", "Insurance", "Travel"],
     "chartDataNeg": [400, 370, 330, 390, 320],
-    "chartOptionsNeg": ["Over Time", "Bonus", "Job Market", "Growth", "Safety"]
+    "chartOptionsNeg": ["Over Time", "Bonus", "Remote Market", "Growth", "Safety"]
   },
   {
     "id": 17,
@@ -421,7 +421,7 @@
     "name": "Aiden McFarland",
     "department": "Accountant",
     "retention_score": 15,
-    "register_date": "3 Months",
+    "register_date": "3 months",
     "email": "aiden.mcFarland@company.com",
     "xaxis": {
       "categories": [2021,2022,2023,2024,2025,2026,2027,2028,2029]
@@ -438,7 +438,7 @@
     "chartDataPos": [400, 370, 330, 390, 320],
     "chartOptionsPos": ["Satisfaction", "Time off", "Co-Workers", "Insurance", "Travel"],
     "chartDataNeg": [400, 370, 330, 390, 320],
-    "chartOptionsNeg": ["Over Time", "Bonus", "Job Market", "Growth", "Safety"]
+    "chartOptionsNeg": ["Over Time", "Bonus", "Remote Market", "Growth", "Safety"]
   },
   {
     "id": 18,
@@ -447,7 +447,7 @@
     "name": "Kamari Mccarthy",
     "department": "Accountant",
     "retention_score": 55,
-    "register_date": "2 Years",
+    "register_date": "2 months",
     "email": "kamari.mccarthy@company.com",
     "xaxis": {
       "categories": [2021,2022,2023,2024,2025,2026,2027,2028,2029]
@@ -464,7 +464,7 @@
     "chartDataPos": [400, 370, 330, 390, 320],
     "chartOptionsPos": ["Satisfaction", "Time off", "Co-Workers", "Insurance", "Travel"],
     "chartDataNeg": [400, 370, 330, 390, 320],
-    "chartOptionsNeg": ["Over Time", "Bonus", "Job Market", "Growth", "Safety"]
+    "chartOptionsNeg": ["Over Time", "Bonus", "Remote Market", "Growth", "Safety"]
   },
   {
     "id": 19 ,
@@ -473,7 +473,7 @@
     "name": "Nelson Golden",
     "department": "Accountant",
     "retention_score": 79,
-    "register_date": "3 Years",
+    "register_date": "3 months",
     "email": "nelson.golden@company.com",
     "xaxis": {
       "categories": [2021,2022,2023,2024,2025,2026,2027,2028,2029]
@@ -490,7 +490,7 @@
     "chartDataPos": [400, 370, 330, 390, 320],
     "chartOptionsPos": ["Satisfaction", "Time off", "Co-Workers", "Insurance", "Travel"],
     "chartDataNeg": [400, 370, 330, 390, 320],
-    "chartOptionsNeg": ["Over Time", "Bonus", "Job Market", "Growth", "Safety"]
+    "chartOptionsNeg": ["Over Time", "Bonus", "Remote Market", "Growth", "Safety"]
   },
   {
     "id": 20 ,
@@ -499,7 +499,7 @@
     "name": "Gabriella Gray",
     "department": "Accountant",
     "retention_score": 37,
-    "register_date": "2 Years",
+    "register_date": "2 months",
     "email": "gabriella.gray@company.com",
     "xaxis": {
       "categories": [2021,2022,2023,2024,2025,2026,2027,2028,2029]
@@ -516,6 +516,6 @@
     "chartDataPos": [400, 370, 330, 390, 320],
     "chartOptionsPos": ["Satisfaction", "Time off", "Co-Workers", "Insurance", "Travel"],
     "chartDataNeg": [400, 370, 330, 390, 320],
-    "chartOptionsNeg": ["Over Time", "Bonus", "Job Market", "Growth", "Safety"]
+    "chartOptionsNeg": ["Over Time", "Bonus", "Remote Market", "Growth", "Safety"]
   }
 ]
