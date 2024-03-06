@@ -32,7 +32,7 @@
     "name": "Ahmad Rosser",
     "department": "People Operations",
     "retention_score": 37,
-    "register_date": "3 months",
+    "register_date": "4 weeks",
     "email": "ahmad.rosser@company.com",
     "xaxis": {
       "categories": [2021,2022,2023,2024,2025,2026,2027,2028,2029]
@@ -110,7 +110,7 @@
     "name": "Kaiya Vetrovs",
     "department": "Finance",
     "retention_score": 77,
-    "register_date": "3 months",
+    "register_date": "3 weeks",
     "email": "kaiya.vetrovs@company.com",
     "xaxis": {
       "categories": [2021,2022,2023,2024,2025,2026,2027,2028,2029]
@@ -136,7 +136,7 @@
     "name": "Ryan Westervelt",
     "department": "Accounts",
     "retention_score": 39,
-    "register_date": "1 months",
+    "register_date": "1 weeks",
     "email": "ryan.westervelt@company.com",
     "xaxis": {
       "categories": [2021,2022,2023,2024,2025,2026,2027,2028,2029]
@@ -188,7 +188,7 @@
     "name": "Mara Jones",
     "department": "Accountant",
     "retention_score": 85,
-    "register_date": "4 months",
+    "register_date": "4 weeks",
     "email": "mara.jones@company.com",
     "xaxis": {
       "categories": [2021,2022,2023,2024,2025,2026,2027,2028,2029]
