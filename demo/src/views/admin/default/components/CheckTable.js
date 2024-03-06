@@ -73,11 +73,25 @@ export default function CheckTable() {
           {
             Header: 'Expected Exit',
             accessor: 'register_date',
-            Cell: ({ row }) => (
+            Cell: ({ row }) => {
+              // Convert weeks into a readable format
+              const weeks = row.original.register_date;
+              let readableFormat;
+          
+              if (weeks >= 1 && weeks <= 3) {
+                readableFormat = '1-3 weeks';
+              } else if (weeks >= 4 && weeks <= 48) {
+                readableFormat = '2-12 months';
+              } else {
+                readableFormat = '1+ years';
+              }
+          
+              return (
                 <ChakraLink as={RouterLink} to={`/admin/profile/${row.original.id}`}>
-                  {row.original.register_date}
+                  {readableFormat}
                 </ChakraLink>
-            )
+              );
+            }
           },
           // Removed the 'more' column
         ],
